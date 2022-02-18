@@ -12,7 +12,6 @@ public class TestModuleApplication {
         Users users = new Users();
 
         System.out.println(users);
-        System.out.println("Hello!");
         SpringApplication.run(TestModuleApplication.class, args);
     }
 

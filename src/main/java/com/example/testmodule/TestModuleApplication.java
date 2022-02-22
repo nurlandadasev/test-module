@@ -12,7 +12,7 @@ public class TestModuleApplication {
         Users users = new Users();
 
         System.out.println(users);
-        System.out.println("HIIII MAAAAN");
+        System.out.println("HIIII MAAAAN!!!!!!");
         SpringApplication.run(TestModuleApplication.class, args);
     }
 
